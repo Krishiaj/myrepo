@@ -1,4 +1,7 @@
- #include <iostream>
+#include <iostream>
+void quicksort{}{
+    //
+}
 
 void bubblesort{}{
     
