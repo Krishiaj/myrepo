@@ -4,8 +4,12 @@ void quicksort{}{
 }
 
 void bubblesort{}{
-    
+    //
 }
+void mergesort{}{
+   //
+}
+
 
 }
 Int main(){
