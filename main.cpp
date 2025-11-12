@@ -1,18 +1,18 @@
 #include <iostream>
-void quicksort{}{
+void quicksort(){
     //
 }
 
-void bubblesort{}{
+void bubblesort(){
     //
 }
-void mergesort{}{
-   //
+    
+void mergesort(){
+    //
 }
 
-timepass
-
-
+void insertionsort (){
+}
 }
 Int main(){
    std :: cout<< "Hello World";
