@@ -11,7 +11,7 @@ void mergesort(){
     //
 }
 
-void insertionsort (){
+void Insertionsort (){
 }
 }
 Int main(){
